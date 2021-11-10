@@ -4,7 +4,7 @@
 <game>	
 	<title>San Hogwarts</title>
 	<founding-date>Febrero 1 del 2021</founding-date>
-	<website>https://sanhogwarts.herokuapp.com</website>
+	<website>sanhogwarts.herokuapp.com</website>
 	<based-in>Cali, Colombia</based-in>
 	
 	<press-contact>nocturnalGames@outlook.com</press-contact>
@@ -15,8 +15,8 @@
 
 	<socials>
 		<social>
-			<name>https://www.instagram.com/nocturnalgamesv1</name>
-			<link>https://www.instagram.com/nocturnalgamesv1</link>
+			<name>www.instagram.com/nocturnalgamesv1</name>
+			<link>www.instagram.com/nocturnalgamesv1</link>
 		</social>
 	</socials>
 
