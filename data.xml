@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>San Hogwarts</title>
+	<founding-date>Febrero 1 del 2021</founding-date>
+	<website>https://www.instagram.com/nocturnalgamesv1</website>
+	<based-in>Cali, Colombia</based-in>
+	
+	<press-contact>nocturnalGames@outlook.com</press-contact>
+	<phone>+57 923456789</phone>
+	<address>
+		<line>Universidad San Buenaventura</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>https://www.instagram.com/nocturnalgamesv1</name>
+			<link>https://www.instagram.com/nocturnalgamesv1</link>
+		</social>
+	</socials>
+
+
+
+	<description>	
+		La escuela preparatoria San Hogwarts es un lugar donde se forman los mejores estudiantes de artes oscuras de la ciudad, entre ellos se encuentra la joven Neela o Neil en donde el jugador podrá elegir; su aspirante a bruja favorita. 
+		San Hogwarts cuenta con un mapa repleto de decenas de misterios sin resolver tales como: avistamientos de ovnis, criaturas espeluznantes, hasta desapariciones de estudiantes; nuestra protagonista deberá aventurarse en busca de la verdad; resolviendo todos y cada uno de estos para lograr adquirir destrezas, habilidades y elementos indispensables como poderes y artilugios; para hacer de su estadía en la preparatoria un poco más amena.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Neela</header>
+			<text>Neela es una chica que desde pequeña supo que había algo diferente en ella, pues descubrió que es una bruja y fue ahí donde decidió estudiar en la universidad de San Hogwarts para desarrollar su magia. Neela es muy inteligente, curiosa y decidida a aprender para ser la mejor bruja.</text>
+		</history>
+		<history>
+			<header>Collectible</header>
+			<text>Por todo el mapa se encontrarán distribuidas 20 varitas mágicas que al ser recolectadas por el jugador, recibirá como recompensa la habilidad avada Ke cabra que le permitirá derrotar a los enemigos más fácilmente.
+			Las gemas es otro collectible que le permitirá al jugador conseguir mejores artículos que le ayudarán a avanzar más fácilmente a lo largo de los diferentes escenarios.
+			</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>This video is nice</name>
+			<youtube>https://www.youtube.com/watch?v=qJJz7sPpaWI</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Ganadora del juego indie del ano</description>
+			<info>USB Colombia, 12 Diciembre, 2021</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>El juego se ve bien piola +10</description>
+			<name>camiloarceg</name>
+			<website>Instagram</website>
+			<link>https://www.instagram.com/p/CV3qoQBPEXK/</link>
+		</quote>
+		<quote>
+			<description>Woww, se ve re bueno</description>
+			<name>daniel.lm98</name>
+			<website>Instagram</website>
+			<link>https://www.instagram.com/p/CU8eY02I3GB/</link>
+		</quote>
+		<quote>
+			<description>Parece que va a ser un clásico</description>
+			<name>sebancho.a</name>
+			<website>Instagram</website>
+			<link>https://www.instagram.com/p/CU8eY02I3GB/</link>
+		</quote>
+		<quote>
+			<description>Cute</description>
+			<name>jollybattle.game</name>
+			<website>Instagrama</website>
+			<link>https://www.instagram.com/p/CSVj3M0L91a/</link>
+		</quote>
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>Nocturnal Games</title>
+			<description>Puedes encotrar mas in formacion en el siguiente link</description>
+			<link>https://www.canva.com/design/DAEt4AhY8ds/b2P4JSQ0P06PDsH9CnQL-Q/view#1 </link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Valentina Vivero</person>
+			<website>https://www.instagram.com/valviveros_</website>
+			<role>Freelancer</role>
+		</credit>
+		<credit>
+			<person>Juan David Ruiz</person>
+			<website>https://www.instagram.com/ijuandavidi</website>
+			<role>Freelancer</role>
+		</credit>
+		<credit>
+			<person>Juan Camilo Alzate</person>
+			<website>https://www.instagram.com/juankalzateb</website>
+			<role>Freelancer</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Instagram</name>
+			<mail>https://www.instagram.com/nocturnalgamesv1</mail>
+		</contact>
+	</contacts>
+</game>
